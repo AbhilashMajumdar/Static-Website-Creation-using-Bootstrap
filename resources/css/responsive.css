@@ -1,0 +1,487 @@
+/*responsive navbar 1 */
+/* --------------------------------------------------------------- */
+
+/* for 1280px  */
+@media only screen and (max-width: 1280px) {
+    .navbar1-padding{
+        padding: 0 6%;
+    }
+
+    .navbar1-items{
+        margin-left: 12px;
+    }
+}
+
+/* for 1024px  */
+@media only screen and (max-width: 1024px) {
+    .navbar1-padding{
+        padding: 0 4%;
+    }
+
+    .navbar1-items{
+        margin-left: 0 !important;
+    }
+}
+
+/* for 991px  */
+@media only screen and (max-width: 991px){
+    .navbar1-padding{
+        padding: 0 6%;
+    }
+
+    .navbar1-items{
+        margin-left: 0;
+        margin-bottom: 15px;
+    }
+}
+
+/* for 768px  */
+@media only screen and (max-width: 768px) {
+    .navbar1-last-item{
+        margin-bottom: 15px;
+    }
+}
+
+/* for 480px  */
+@media only screen and (max-width: 480px) {
+    .navbar1-last-item{
+        margin-bottom: 15px;
+    }
+}
+
+
+/*responsive navbar 2 */
+/* ------------------------------------------------------------------- */
+
+/* for 1280px */
+@media only screen and (max-width: 1280px) {
+    .navbar2-padding{
+        padding: 0 6%;
+    }
+
+    .navbar2-items a{
+        margin-right: 8px;
+    }
+}
+
+/* for 1024px */
+@media only screen and (max-width: 1024px) {
+    .navbar2-padding{
+        padding: 0 4%;
+    }
+
+    .navbar2-items a{
+        margin-right: 5px;
+    }
+}
+
+/* for 991px  */
+@media only screen and (max-width: 991px){
+    .navbar2-padding{
+        padding: 0 6%;
+    }
+
+    .searchbar{
+        margin-top: 10px;
+    }
+
+    .navbar2-items{
+        text-align: center;
+    }
+
+    .navbar2-items a{
+        margin-right: 10px;
+    }
+}
+
+
+/*for 810px */
+@media only screen and (max-width: 810px) {
+    .navbar1-padding{
+        padding: 0 6%;
+    }
+
+    .navbar2-padding{
+        padding: 0 6%;
+    }
+
+    .navbar2-items a{
+        margin-right: 5px;
+    }
+}
+
+/* for 768px  */
+@media only screen and (max-width: 768px) {
+    .navbar2-items a{
+        margin-right: 10px;
+    }
+}
+
+/* for 480px  */
+@media only screen and (max-width: 480px) {
+    .navbar2-items{
+        text-align: center;
+    }
+
+    .navbar2-items a{
+        margin-right: 7px;
+    }
+
+    .searchbar{
+        margin-bottom: 10px;
+    }
+}
+
+
+/* responsive image and text section  */
+
+/* for 1280px  */
+@media only screen and (max-width: 1280px){
+    .img-text-padding{
+        padding: 0 6%;
+    }
+}
+
+/* for 1024px  */
+@media only screen and (max-width: 1024px){
+    .img-text-padding{
+        padding: 0 4%;
+    }
+
+    .img-text{
+        margin-left: 0px;
+    }
+}
+
+/* for 991px  */
+@media only screen and (max-width: 991px){
+    .img-text-padding{
+        padding: 0 6%;
+    }
+}
+
+/* 768px is perfect  */
+
+/* for 480px  */
+@media only screen and (max-width: 480px){
+    .img-text-items{
+        text-align: center;
+    }
+
+    .img-style{
+        margin-top: 15px;
+    }
+
+    .img-text{
+        margin-top: 15px;
+    }
+}
+
+
+/* responsive section - deals of the day */
+/* for 1280px  */
+@media only screen and (max-width: 1280px){
+    .deals-padding{
+        padding: 0 6%;
+    }
+}
+
+/* for 1024px  */
+@media only screen and (max-width: 1024px){
+    .deals-padding{
+        padding: 0 4%;
+    }
+}
+
+/* for 991px  */
+@media only screen and (max-width: 991px){
+    .deals-padding{
+        padding: 0 6%;
+    }
+}
+
+/* 768px is perfect  */
+
+/* for 480px */
+@media only screen and (max-width: 480px){
+    .deals-heading{
+        text-align: center;
+    }
+}
+
+
+/* responsive section - deals items  */
+
+/* for 1280px */
+@media only screen and (max-width: 1280px){
+    .deals-item2-para1, .deals-item3-para1{
+        margin-left: 10px;
+    }
+
+    .deals-item1-para2, .deals-item2-para2, .deals-item3-para2, .deals-item4-para2, .deals-item5-para2, .deals-item6-para2{
+        margin-left: 20px;
+    }
+}
+
+/* for 1024px  */
+@media only screen and (max-width: 1024px){
+    .deals-image{
+        width: 120px;
+        height: 130px;
+    }
+    
+    .deals-items{
+        text-align: center;
+    }
+
+    .deals-item2-para1, .deals-item3-para1{
+        margin-left: 0;
+    }
+    
+    .deals-item1-para2, .deals-item2-para2, .deals-item3-para2, .deals-item4-para2, .deals-item5-para2, .deals-item6-para2{
+        margin-left: 0;
+    }
+
+    .des-text{
+        font-size: 16x;
+    }
+
+    .deals-item1-para1{
+        text-align: center !important;
+    }
+}
+
+/* for 991px */
+@media only screen and (max-width: 991px){
+    .deals-items{
+        margin-bottom: 40px;
+        margin-top: 10px;
+    }
+
+    .deals-image{
+        width: 140px;
+        height: 160px;
+    }
+
+    .des-text{
+        font-size: 20px;
+    }
+}
+
+/* for 768px */
+@media only screen and (max-width: 768px){
+    .deals-items{
+        margin-bottom: 50px;
+        margin-top: 20px;
+    }
+
+    .des-text{
+        font-size: 20px;
+    } 
+}
+
+/* for 480px */
+@media only screen and (max-width: 480px){
+    .deals-items{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .deals-image{
+        width: 100px;
+        height: 110px;
+    }
+
+    .deals-item2-para1, .deals-item3-para1{
+        margin-left: 0;
+    }
+    
+    .deals-item1-para2, .deals-item2-para2, .deals-item3-para2, .deals-item4-para2, .deals-item5-para2, .deals-item6-para2{
+        margin-left: 0;
+    }
+
+    .des-text{
+        font-size: 17px;
+    }
+}
+
+
+/* responsive section - fashion categories */
+/* for 1280px  */
+@media only screen and (max-width: 1280px){
+    .fc-padding{
+        padding: 0 6%;
+    }
+}
+
+/* for 1024px  */
+@media only screen and (max-width: 1024px){
+    .fc-padding{
+        padding: 0 4%;
+    }
+}
+
+/* for 991px  */
+@media only screen and (max-width: 991px){
+    .fc-padding{
+        padding: 0 6%;
+    }
+}
+
+/* 768px is perfect  */
+
+/* for 480px */
+@media only screen and (max-width: 480px){
+    .fc-heading{
+        text-align: center;
+    }
+}
+
+
+/* responsive fashion items  */
+/* for 1280px  */
+@media only screen and (max-width: 1280px){
+    .card-style{
+        width: 10rem;
+    }
+
+    .image-style{
+        width: 9rem;
+        height: 11rem;
+    }
+
+    .card-text-style{
+        font-size: 20px;
+    }
+}
+
+/* for 1024px  */
+@media only screen and (max-width: 1024px){
+    .card-style{
+        width: 8rem;
+    }
+
+    .image-style{
+        width: 7rem;
+        height: 9rem;
+    }
+
+    .card-text-style{
+        font-size: 20px;
+    }
+}
+
+/* for 991px  */
+@media only screen and (max-width: 991px){
+    .card-style{
+        width: 10rem;
+    }
+
+    .image-style{
+        width: 9rem;
+        height: 11rem;
+    }
+
+    .card-text-style{
+        font-size: 22px;
+    }
+}
+
+/* 768px */
+@media only screen and (max-width: 768px){
+    .card-style{
+        width: 8rem;
+    }
+
+    .image-style{
+        width: 7rem;
+        height: 9rem;
+    }
+
+    .card-text-style{
+        font-size: 18px;
+    }
+}
+
+
+/* for 480px  */
+@media only screen and (max-width: 480px){
+    .card-text-style{
+        font-size: 18px;
+    }
+
+    .card-items{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+
+/* responsive section - textarea  */
+/* for 1280px  */
+@media only screen and (max-width: 1280px){
+    .textarea-padding{
+        padding: 0 6%;
+    }
+}
+
+/* for 1024px  */
+@media only screen and (max-width: 1024px){
+    .textarea-padding{
+        padding: 0 4%;
+    }
+}
+
+/* for 991px  */
+@media only screen and (max-width: 991px){
+    .textarea-padding{
+        padding: 0 6%;
+    }
+}
+
+/* 768px is perfect  */
+
+/* for 480px  */
+@media only screen and (max-width: 480px){
+    .textarea-des{
+        text-align: justify;
+    }
+
+    .textarea-style{
+        font-size: 16px;
+        margin-right: 4px !important;
+    }
+}
+
+
+/*responsive footer  */
+
+/* for 1280px */
+@media only screen and (max-width: 1280px) {
+    .footer-padding{
+        padding: 0 6%;
+    }
+}
+
+/* for 1024px */
+@media only screen and (max-width: 1024px) {
+    .footer-padding{
+        padding: 0 4%;
+    }
+}
+
+/* for 991px  */
+@media only screen and (max-width: 991px){
+    .footer-padding{
+        padding: 0 6%;
+    }
+}
+
+/* 768 px is perfect  */
+
+/* for 480px  */
+@media only screen and (max-width: 480px){
+    .footer-items{
+        text-align: center;
+    }
+}
